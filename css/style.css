@@ -1,0 +1,13 @@
+.d-flax{
+    text-align: center;
+}
+body{
+    background: url(https://avatars.mds.yandex.net/i?id=3b622b2f13de5a36ff89dcdb298670163902cf27-8411463-images-thumbs&n=13) no-repeat;
+    background-size: cover;
+}
+div p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+input[type='text']{
+    height:20px;
+}
